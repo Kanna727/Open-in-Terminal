@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WT Context Setup", "WT Context Setup\WT Context Setup.vdproj", "{67B186E4-3DDD-4200-9865-8955E271717B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67B186E4-3DDD-4200-9865-8955E271717B}.Debug|Default.ActiveCfg = Debug
+		{67B186E4-3DDD-4200-9865-8955E271717B}.Debug|Default.Build.0 = Debug
+		{67B186E4-3DDD-4200-9865-8955E271717B}.Release|Default.ActiveCfg = Release
+		{67B186E4-3DDD-4200-9865-8955E271717B}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
